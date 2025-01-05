@@ -24,7 +24,7 @@ This project demonstrates how to create 3D word embeddings using PyTorch and vis
     ```
 
 2. **Run the Jupyter notebook:**
-    Open [simple_3d_word_embedding.ipynb](https://anbu1506.github.io/WordEmbeddings/) in Jupyter Notebook or JupyterLab and run all cells to train the model and generate the 3D plot.
+    Open simple_3d_word_embedding.ipynb in Jupyter Notebook or JupyterLab and run all cells to train the model and generate the 3D plot.
 
 3. **View the 3D plot:**
     Open [index.html](https://anbu1506.github.io/WordEmbeddings/) in a web browser to view the interactive 3D plot of the word embeddings.
