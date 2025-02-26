@@ -1,0 +1,5 @@
+# Ignore virtual environment directories
+*/bin/
+*/lib/
+*/include/
+*/pyvenv.cfg
