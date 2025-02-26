@@ -1,5 +1,16 @@
-# Ignore virtual environment directories
-*/bin/
-*/lib/
-*/include/
-*/pyvenv.cfg
+# Ignore virtual environment directories and files
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# If the virtual environment is in a specific folder, like 'venv'
+venv/
+.venv/
+
+# Ignore other common Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
